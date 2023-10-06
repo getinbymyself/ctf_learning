@@ -1,0 +1,2 @@
+## utf9 compatible for python3
+> when I'm searching for the code to solve utf9 on the Github, I could only find the code compatible only for python2. I have made some changes based on these codes which make them run in the python3 environment.

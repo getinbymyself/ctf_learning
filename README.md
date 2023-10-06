@@ -1,2 +1,2 @@
 # ctf_learning
-some code when I learn CTF
+some codes when I learn CTF
