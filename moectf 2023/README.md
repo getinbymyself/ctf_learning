@@ -3,4 +3,4 @@
 
 - codes will be updated after the game.
 - The codes will be divided into five categories.
-- Moectf has AI,Jail and so on.They are attributed to misc.
+- Moectf has AI,Jail and so on.They are all attributed to misc.
